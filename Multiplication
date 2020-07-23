@@ -1,0 +1,12 @@
+#Python_Calculater.....
+
+
+
+n=int(input("Enter The Number To Print The Tables For:"))
+
+
+for i in range(1,101):
+    
+    
+    print(n,"x",i,"=",n*i)
+
